@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('../Images/green-bg1.gif') no-repeat center center/cover;
+    background: url('../Images/green-bg.gif') no-repeat center center/cover;
 }
 
 .container {
@@ -123,7 +123,8 @@ header {
 }
 
 .popup-content {
-    background-color: #ffffffef;
+    /* background-color: #ffffffef; */
+    background: url('../Images/green-bg.gif') no-repeat center center/cover;
     padding: 0 15px;
     border-radius: 10px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
@@ -180,4 +181,3 @@ header {
     font-weight: bold;
     letter-spacing: 5px;
 }
-
